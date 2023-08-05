@@ -1,0 +1,40 @@
+*{
+    background-color: black;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 1.5;
+}
+
+.list {
+    background-color: black;
+    text-align: center;
+    border: 1px solid white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#title, h1{
+    font-weight: 800;
+    font-size: 38px;
+    color: white;
+}
+
+#title{
+    text-align: center;
+    text-decoration: underline;
+}
+
+.steps{
+    text-align: justify;
+}
+
+img{
+    width: 500px;
+    height: 500px;
+}
+
+
+div{
+    text-align: justify;
+    border: 1px solid white;
+    width: 750px;
+}
